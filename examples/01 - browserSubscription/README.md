@@ -1,6 +1,9 @@
-# Webrelay Auth in the Browser
+# Subscribing to your Webrelay in the Browser
 
 This example will show you how to auth to your webrelay server from your client-side browser. After authing to the webrelay you will be able to forward OpenBazaar messages.
+
+![Subscribing to your Webrelay](src/images/tutorialImage.png)
+
 
 ## Setup
 
